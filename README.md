@@ -1,121 +1,75 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivang%20Pathak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Shivang%20Pathak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Shivang Pathak</h1>
+<h1 align="center">Hi, I'm Shivang Pathak</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Systems+Developer;Backend+Engineer;Hackathon+Builder;Building+AI+Security+Systems;FastAPI+%7C+Python+%7C+AI&center=true&width=550&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Systems+Developer;Backend+Engineer;Building+AI+Security+Systems;FastAPI+%7C+Python+%7C+AI;Hackathon+Builder&center=true&width=550&height=45">
 </p>
 
 <p align="center">
-AI Systems Developer • Backend Engineer • Hackathon Builder
+AI Systems Developer • Backend Engineer • AI Security Research
 </p>
 
 ---
 
 # 💫 About Me
 
-I’m **Shivang Pathak**, a B.Tech student and aspiring **AI & Systems Developer** passionate about building real-world, impact-driven technology.
+I’m **Shivang Pathak**, a B.Tech student and aspiring **AI & Systems Developer** focused on building **real-world AI systems and backend architectures**.
 
-My work focuses on **AI-powered systems, backend engineering, and security-oriented problem solving**. I enjoy designing systems that combine **machine learning, intelligent APIs, and scalable backend architectures** to solve meaningful problems.
+My work centers around **AI-powered security systems, backend APIs, and intelligent automation tools** that solve practical problems.
 
-I actively participate in **hackathons and research-driven projects**, where I focus on turning innovative ideas into **functional prototypes with clear architecture and measurable impact**.
+I enjoy building **research-style projects and hackathon prototypes** that combine **machine learning, scalable backend systems, and modern developer infrastructure**.
 
-I strongly believe in **learning by building**, and I aim to create **unique, production-style systems** rather than relying solely on tutorial-based projects.
-
----
-
-# 🎯 Currently Building
-
-- 🛡 AI-powered Scam Intelligence Systems  
-- 🎙 Voice AI Detection APIs  
-- 🌾 AI Assistants for Rural India  
-- ⚙ Backend architectures using FastAPI  
-- 🧠 Agent-based AI systems  
+My long-term goal is to become a **strong AI systems engineer** working on impactful technologies.
 
 ---
-# 🚀 Featured Projects
+
+# ⭐ Flagship Project
 
 ## 🛡 Agentic Scam Intelligence System
-AI-powered honeypot platform designed to interact with scammers and extract actionable intelligence for fraud detection systems.
 
-**Key Features**
-- Autonomous scam conversation agents  
-- Scam intelligence extraction  
-- Fraud risk scoring pipeline  
-- Security-focused backend architecture  
+AI-powered honeypot system designed to interact with scammers and extract fraud intelligence.
+
+**Capabilities**
+
+• Autonomous scam conversation agents  
+• Scam intelligence extraction  
+• Fraud pattern detection  
+• Security intelligence pipelines  
 
 **Tech Stack**
-FastAPI • Python • NLP • AI Agents • REST APIs  
 
-🔗 https://github.com/Shivang1109/scam-intelligence-system
+FastAPI • Python • NLP • AI Agents
 
 ---
 
-## 🎙 Voice AI Detector API
-Machine learning API that detects whether a voice sample is **AI-generated or human speech**.
+# 🚀 Featured Projects
 
-**Key Features**
-- Audio feature extraction pipeline  
-- Machine learning classification model  
-- Secure REST API with API key authentication  
-- Public deployment for testing  
+<p align="center">
 
-**Tech Stack**
-Python • FastAPI • RandomForest • Audio Processing • Render  
+<a href="https://github.com/Shivang1109/scam-intelligence-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=scam-intelligence-system&theme=tokyonight"/>
+</a>
 
-🔗 https://github.com/Shivang1109/voice-ai-detector
+<a href="https://github.com/Shivang1109/voice-ai-detector">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=voice-ai-detector&theme=tokyonight"/>
+</a>
 
----
+<a href="https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=GRAMSEVAK-AI_VERTEX&theme=tokyonight"/>
+</a>
 
-## 🌾 GramSevak AI
-Low-bandwidth AI assistant designed to provide **government schemes, agriculture guidance, and public services information** for rural communities.
+<a href="https://github.com/Shivang1109/AI-DATA-DICTIONARY">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=AI-DATA-DICTIONARY&theme=tokyonight"/>
+</a>
 
-**Key Features**
-- Optimized for **2G/3G networks**  
-- Multilingual support  
-- Rural-focused information assistant  
-- Lightweight backend architecture  
+<a href="https://github.com/Shivang1109/AYUSH-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=AYUSH-AI&theme=tokyonight"/>
+</a>
 
-**Tech Stack**
-FastAPI • Python • AI APIs • Backend Systems  
-
-🔗 https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX
-
----
-
-## 📊 AI Data Dictionary
-AI-powered tool that automatically **documents and explains database schemas** to help developers understand complex databases quickly.
-
-**Key Features**
-- Automatic schema analysis  
-- AI-generated documentation  
-- Developer-friendly explanations  
-- Database metadata visualization  
-
-**Tech Stack**
-Next.js • AI APIs • Node.js • Database Systems  
-
-🔗 https://github.com/Shivang1109/AI-DATA-DICTIONARY
-
----
-
-## 🧠 AYUSH-AI
-AI-powered assistant designed to provide **information and guidance related to AYUSH healthcare systems**.
-
-**Key Features**
-- Natural language query system  
-- Health knowledge assistance  
-- AI-powered information retrieval  
-- User-friendly interface  
-
-**Tech Stack**
-Python • AI APIs • Backend Services • Web Interface  
-
-🔗 https://github.com/Shivang1109/AYUSH-AI
-
-
+</p>
 
 ---
 
@@ -145,17 +99,11 @@ Python • AI APIs • Backend Services • Web Interface
 
 ---
 
-# 📈 Contribution Graph
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivang1109&theme=tokyo-night)
-
----
-
-# 📊 GitHub Stats Dashboard
+# 📊 Developer Dashboard
 
 ![](https://github-readme-stats.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Shivang1109&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shivang1109&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang1109&theme=tokyonight&layout=compact)
 
@@ -164,6 +112,12 @@ Python • AI APIs • Backend Services • Web Interface
 # 🔥 3D Contribution Graph
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivang1109&theme=tokyonight">
+
+---
+
+# 📈 Contribution Graph
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivang1109&theme=tokyo-night)
 
 ---
 
@@ -183,19 +137,11 @@ Python • AI APIs • Backend Services • Web Interface
 
 ---
 
-# 👁 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shivang1109&label=Profile%20views&color=blue&style=flat"/>
-</p>
-
----
-
 # 🚀 Developer Philosophy
 
 > Build real systems  
 > Solve meaningful problems  
-> Learn by shipping  
+> Learn by shipping
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
