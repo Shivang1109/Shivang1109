@@ -34,10 +34,11 @@
 
 ## 💫 About Me
 
-Hey, I'm **Shivang Pathak** — a **2nd year B.Tech student** and self-driven **AI & Backend Systems Developer** from India.
+Hey, I'm **Shivang Pathak** — a **2nd year B.Tech student** and self-driven **AI & Backend Systems Developer** from India. 🇮🇳
 
 I don't just learn tech — I build real systems that solve real problems. My focus is on **agentic AI, voice & fraud detection, backend APIs, and AI safety tooling**.
 
+- 🎓 Pursuing **B.Tech in CSE** at **Babu Banarasi Das Northern India Institute of Technology, Lucknow** (2nd Year)
 - 🔭 Currently building: **AI-powered fraud intelligence & voice deepfake detection systems**
 - 🎯 Target: **AI/Backend internship at a product-based company (FAANG/Tier-1)**
 - 🧠 Deep diving into: **RAG systems, vector databases, distributed system design**
@@ -84,7 +85,7 @@ Production-ready REST API using audio feature engineering (MFCCs, spectral centr
 AI-powered assistant designed specifically for low-connectivity environments, helping rural communities query government welfare schemes and information in simple language.
 
 **Tech Stack:** `FastAPI` `Python` `Google Vertex AI` `AI APIs`  
-🔗 [View Repo](https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX)
+🔗 [View Repo](https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX) • 🌐 [Live Demo](https://gramsevak-ai.netlify.app/)
 
 ---
 
@@ -94,7 +95,7 @@ AI-powered assistant designed specifically for low-connectivity environments, he
 Developer productivity tool that takes raw database schemas and outputs clean, business-friendly data dictionaries with schema quality analysis — saving hours of manual documentation work.
 
 **Tech Stack:** `Next.js` `Node.js` `FastAPI` `AI APIs` `TypeScript`  
-🔗 [View Repo](https://github.com/Shivang1109/AI-DATA-DICTIONARY)
+🔗 [View Repo](https://github.com/Shivang1109/AI-DATA-DICTIONARY) • 🌐 [Live Demo](https://ai-dd-frontend.vercel.app/)
 
 ---
 
@@ -104,7 +105,7 @@ Developer productivity tool that takes raw database schemas and outputs clean, b
 Conversational AI backend providing guidance on Ayurveda, Yoga, Unani, Siddha, and Homeopathy healthcare systems — making traditional health knowledge accessible via API.
 
 **Tech Stack:** `Python` `JavaScript` `AI APIs` `Backend Systems`  
-🔗 [View Repo](https://github.com/Shivang1109/AYUSH-AI)
+🔗 [View Repo](https://github.com/Shivang1109/AYUSH-AI) • 🌐 [Live Demo](https://ayush-ai-assistant.netlify.app/)
 
 ---
 
@@ -127,6 +128,7 @@ AI-powered mock interview system with adaptive questioning logic — adjusts dif
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Backend & Frameworks**
 
@@ -173,6 +175,14 @@ AI-powered mock interview system with adaptive questioning logic — adjusts dif
 
 ---
 
+## 🔥 Profile Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivang1109&theme=tokyonight"/>
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -184,7 +194,7 @@ AI-powered mock interview system with adaptive questioning logic — adjusts dif
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Shivang1109/Shivang1109/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Shivang1109/Shivang1109/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
