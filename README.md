@@ -44,30 +44,19 @@ AI-powered honeypot system designed to interact with scammers and extract fraud 
 FastAPI • Python • NLP • AI Agents
 
 ---
-
 # 🚀 Featured Projects
 
 <p align="center">
 
-<a href="https://github.com/Shivang1109/scam-intelligence-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=scam-intelligence-system&theme=tokyonight"/>
-</a>
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=GRAMSEVAK-AI_VERTEX&theme=tokyonight"/>
 
-<a href="https://github.com/Shivang1109/voice-ai-detector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=voice-ai-detector&theme=tokyonight"/>
-</a>
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=AYUSH-AI&theme=tokyonight"/>
 
-<a href="https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=GRAMSEVAK-AI_VERTEX&theme=tokyonight"/>
-</a>
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=AI-DATA-DICTIONARY&theme=tokyonight"/>
 
-<a href="https://github.com/Shivang1109/AI-DATA-DICTIONARY">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=AI-DATA-DICTIONARY&theme=tokyonight"/>
-</a>
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=scam-intelligence-system&theme=tokyonight"/>
 
-<a href="https://github.com/Shivang1109/AYUSH-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=AYUSH-AI&theme=tokyonight"/>
-</a>
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=voice-ai-detector&theme=tokyonight"/>
 
 </p>
 
