@@ -1,142 +1,131 @@
-# Hi there! 👋 I'm Shivang Pathak
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shivang%20Pathak&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Shivang1109" alt="Profile views" />
+<h1 align="center">Hi 👋, I'm Shivang Pathak</h1>
 
-### 🤖 AI Security Engineer | Full-Stack Developer | Building Intelligent Solutions
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Systems+Developer;Backend+Engineer;Hackathon+Builder;Building+AI+Security+Systems;FastAPI+%7C+Python+%7C+AI&center=true&width=550&height=45">
+</p>
 
-I'm passionate about building **AI-powered security solutions** and **intelligent systems** that detect and prevent fraud at scale.
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ [Scam Intelligence System](https://github.com/Shivang1109/scam-intelligence-system)
-**AI-powered honeypot for real-time scam detection & intelligence extraction**
-- 🤖 Autonomous conversation agents
-- 🔍 Entity extraction (phone numbers, URLs, payment IDs)
-- 📊 Real-time risk scoring
-- 🐳 Production-ready with Docker
-- ⚡ Live: [scam-intelligence-system.onrender.com](https://scam-intelligence-system.onrender.com)
-
-**Tech Stack:** Express.js | TypeScript | PostgreSQL | Jest | Docker
+<p align="center">
+AI Systems Developer • Backend Engineer • Hackathon Builder
+</p>
 
 ---
 
-### 📊 [AI Data Dictionary](https://github.com/Shivang1109/AI-DATA-DICTIONARY)
-**Intelligent tool for automatic database documentation using AI**
-- 🔍 Auto-extracts schema, tables, and columns
-- 🤖 AI-powered business-friendly summaries
-- 📈 Data quality analysis & metrics
-- 🎨 Interactive visualization dashboard
-- 🚀 Try it: [ai-dd-frontend.vercel.app](https://ai-dd-frontend.vercel.app)
+# 💫 About Me
 
-**Tech Stack:** Next.js | FastAPI | PostgreSQL | Recharts | Tailwind CSS
+I’m **Shivang Pathak**, a B.Tech student and aspiring **AI & Systems Developer** passionate about building real-world, impact-driven technology.
 
----
+My work focuses on **AI-powered systems, backend engineering, and security-oriented problem solving**. I enjoy designing systems that combine **machine learning, intelligent APIs, and scalable backend architectures** to solve meaningful problems.
 
-### 🤖 [Agentic Scam Intelligence System](https://github.com/Shivang1109/agentic-scam-intelligence-system)
-**Hackathon-winning design for autonomous scam engagement & intelligence extraction**
-- 📋 Complete requirements specification
-- 🏗️ Detailed system architecture
-- 🔐 State-machine driven dialogue control
-- 📊 Production-ready design docs
-- 🏆 Design-first development showcase
+I actively participate in **hackathons and research-driven projects**, where I focus on turning innovative ideas into **functional prototypes with clear architecture and measurable impact**.
 
-**Tech Stack:** System Design | Architecture | Specifications
+I strongly believe in **learning by building**, and I aim to create **unique, production-style systems** rather than relying solely on tutorial-based projects.
 
 ---
 
-## 💻 Tech Stack
+# 🎯 Currently Building
 
-**Languages:**
-- JavaScript/TypeScript
-- Python
-- SQL
-
-**Frontend:**
-- React
-- Next.js
-- Tailwind CSS
-
-**Backend:**
-- Node.js & Express.js
-- FastAPI
-- PostgreSQL
-
-**Tools & Platforms:**
-- Docker & Docker Compose
-- Git & GitHub
-- AWS/Railway/Vercel
-- Postman & API Testing
+- 🛡 AI-powered Scam Intelligence Systems  
+- 🎙 Voice AI Detection APIs  
+- 🌾 AI Assistants for Rural India  
+- ⚙ Backend architectures using FastAPI  
+- 🧠 Agent-based AI systems  
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivang1109&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Shivang1109)
+<a href="https://github.com/Shivang1109/scam-intelligence-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=scam-intelligence-system&theme=tokyonight"/>
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang1109&layout=compact&theme=tokyonight)](https://github.com/Shivang1109)
-
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-- 🔐 AI-powered security & fraud detection systems
-- 🤖 Building intelligent agents and agentic AI systems
-- 📚 Full-stack development with modern tech stacks
-- 🚀 Scalable microservices architecture
-- 📊 Data analysis and intelligent documentation tools
+<a href="https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=GRAMSEVAK-AI_VERTEX&theme=tokyonight"/>
+</a>
 
 ---
 
-## 🌟 Key Interests
+# 💻 Tech Stack
 
-- **Cybersecurity:** Scam detection, fraud prevention
-- **AI/ML:** Intelligent agents, NLP, entity extraction
-- **System Design:** Architecture, scalability, best practices
-- **Full-Stack Development:** Frontend to backend & DevOps
-- **Open Source:** Contributing to community projects
-
----
-
-## 📫 Get In Touch
-
-| Platform | Link |
-|----------|------|
-| **Email** | [shivangpathak11@gmail.com](mailto:shivangpathak11@gmail.com) |
-| **LinkedIn** | [Shivang Pathak](https://www.linkedin.com/in/shivang-pathak-411b18315/) |
-| **GitHub** | [@Shivang1109](https://github.com/Shivang1109) |
-| **Portfolio** | [Coming Soon] |
-
----
-
-## 📈 Recent Activity
-
-- 🚀 Built AI Data Dictionary with 6.2M+ demo records
-- 🛡️ Launched Scam Intelligence System (production-ready)
-- 🏆 Created hackathon-winning system design
-- 💻 Maintaining open-source projects
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## ⭐ If You Like My Work
+# 📈 Contribution Graph
 
-Feel free to:
-- ⭐ **Star** my repositories if you find them useful
-- 🔗 **Follow** me for updates on new projects
-- 💬 **Connect** on LinkedIn or via email
-- 🐛 **Report issues** or suggest improvements
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shivang1109&theme=tokyo-night)
 
 ---
 
-<div align="center">
+# 📊 GitHub Stats Dashboard
 
-### Made with ❤️ by Shivang Pathak
+![](https://github-readme-stats.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true)
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Shivang1109)](https://github.com/Shivang1109)
+![](https://nirzak-streak-stats.vercel.app/?user=Shivang1109&theme=tokyonight)
 
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang1109&theme=tokyonight&layout=compact)
+
+---
+
+# 🔥 3D Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivang1109&theme=tokyonight">
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/Shivang1109/Shivang1109/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivang._.pathak)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivang-pathak-411b18315)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivangpathak11@gmail.com)
+
+---
+
+# 👁 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shivang1109&label=Profile%20views&color=blue&style=flat"/>
+</p>
+
+---
+
+# 🚀 Developer Philosophy
+
+> Build real systems  
+> Solve meaningful problems  
+> Learn by shipping  
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
