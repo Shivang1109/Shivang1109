@@ -46,19 +46,43 @@ FastAPI • Python • NLP • AI Agents
 ---
 # 🚀 Featured Projects
 
-<p align="center">
+## 🛡 Agentic Scam Intelligence System
+AI-powered honeypot system designed to interact with scammers and extract fraud intelligence.
 
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=GRAMSEVAK-AI_VERTEX&theme=tokyonight"/>
+**Tech Stack:** FastAPI • Python • NLP • AI Agents  
+🔗 https://github.com/Shivang1109/scam-intelligence-system
 
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=AYUSH-AI&theme=tokyonight"/>
+---
 
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=AI-DATA-DICTIONARY&theme=tokyonight"/>
+## 🎙 Voice AI Detector API
+Machine learning API that detects whether a voice sample is AI-generated or human speech.
 
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=scam-intelligence-system&theme=tokyonight"/>
+**Tech Stack:** Python • FastAPI • RandomForest • Audio Processing  
+🔗 https://github.com/Shivang1109/voice-ai-detector
 
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/pin/?username=Shivang1109&repo=voice-ai-detector&theme=tokyonight"/>
+---
 
-</p>
+## 🌾 GramSevak AI
+Low-bandwidth AI assistant designed to help rural communities access government schemes and information.
+
+**Tech Stack:** FastAPI • Python • AI APIs  
+🔗 https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX
+
+---
+
+## 📊 AI Data Dictionary
+AI-powered developer tool that automatically generates documentation for database schemas.
+
+**Tech Stack:** Next.js • Node.js • AI APIs  
+🔗 https://github.com/Shivang1109/AI-DATA-DICTIONARY
+
+---
+
+## 🧠 AYUSH-AI
+AI assistant providing guidance and information related to AYUSH healthcare systems.
+
+**Tech Stack:** Python • AI APIs • Backend Systems  
+🔗 https://github.com/Shivang1109/AYUSH-AI
 
 ---
 
