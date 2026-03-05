@@ -35,16 +35,87 @@ I strongly believe in **learning by building**, and I aim to create **unique, pr
 - 🧠 Agent-based AI systems  
 
 ---
-
 # 🚀 Featured Projects
 
-<a href="https://github.com/Shivang1109/scam-intelligence-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=scam-intelligence-system&theme=tokyonight"/>
-</a>
+## 🛡 Agentic Scam Intelligence System
+AI-powered honeypot platform designed to interact with scammers and extract actionable intelligence for fraud detection systems.
 
-<a href="https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivang1109&repo=GRAMSEVAK-AI_VERTEX&theme=tokyonight"/>
-</a>
+**Key Features**
+- Autonomous scam conversation agents  
+- Scam intelligence extraction  
+- Fraud risk scoring pipeline  
+- Security-focused backend architecture  
+
+**Tech Stack**
+FastAPI • Python • NLP • AI Agents • REST APIs  
+
+🔗 https://github.com/Shivang1109/scam-intelligence-system
+
+---
+
+## 🎙 Voice AI Detector API
+Machine learning API that detects whether a voice sample is **AI-generated or human speech**.
+
+**Key Features**
+- Audio feature extraction pipeline  
+- Machine learning classification model  
+- Secure REST API with API key authentication  
+- Public deployment for testing  
+
+**Tech Stack**
+Python • FastAPI • RandomForest • Audio Processing • Render  
+
+🔗 https://github.com/Shivang1109/voice-ai-detector
+
+---
+
+## 🌾 GramSevak AI
+Low-bandwidth AI assistant designed to provide **government schemes, agriculture guidance, and public services information** for rural communities.
+
+**Key Features**
+- Optimized for **2G/3G networks**  
+- Multilingual support  
+- Rural-focused information assistant  
+- Lightweight backend architecture  
+
+**Tech Stack**
+FastAPI • Python • AI APIs • Backend Systems  
+
+🔗 https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX
+
+---
+
+## 📊 AI Data Dictionary
+AI-powered tool that automatically **documents and explains database schemas** to help developers understand complex databases quickly.
+
+**Key Features**
+- Automatic schema analysis  
+- AI-generated documentation  
+- Developer-friendly explanations  
+- Database metadata visualization  
+
+**Tech Stack**
+Next.js • AI APIs • Node.js • Database Systems  
+
+🔗 https://github.com/Shivang1109/AI-DATA-DICTIONARY
+
+---
+
+## 🧠 AYUSH-AI
+AI-powered assistant designed to provide **information and guidance related to AYUSH healthcare systems**.
+
+**Key Features**
+- Natural language query system  
+- Health knowledge assistance  
+- AI-powered information retrieval  
+- User-friendly interface  
+
+**Tech Stack**
+Python • AI APIs • Backend Services • Web Interface  
+
+🔗 https://github.com/Shivang1109/AYUSH-AI
+
+
 
 ---
 
