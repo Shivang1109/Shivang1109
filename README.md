@@ -1,15 +1,40 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Shivang%20Pathak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:2c5364&height=280&section=header&text=Shivang%20Pathak&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Hi, I'm Shivang Pathak</h1>
+<h1 align="center">AI Systems Developer</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Systems+Developer;Backend+Engineer;Building+AI+Security+Systems;FastAPI+%7C+Python+%7C+AI;Hackathon+Builder&center=true&width=550&height=45">
+Building intelligent backend systems, AI detection tools, and real-world problem-solving technology.
 </p>
 
 <p align="center">
-AI Systems Developer • Backend Engineer • AI Security Research
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+Systems+Developer;Backend+Engineer;AI+Security+Systems;FastAPI+%7C+Python+%7C+Machine+Learning;Hackathon+Builder"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-AI%20Systems-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Specialty-Backend%20Engineering-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interest-AI%20Security-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-System%20Design-purple?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Shivang1109">
+<img src="https://img.shields.io/github/followers/Shivang1109?label=GitHub&style=social"/>
+</a>
+
+<a href="https://linkedin.com/in/shivang-pathak-411b18315">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shivang1109&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
