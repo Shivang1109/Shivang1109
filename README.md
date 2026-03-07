@@ -203,7 +203,7 @@ AI-powered mock interview system with adaptive questioning logic — adjusts dif
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivang-pathak-411b18315">
+  <a href="https://linkedin.com/in/shivangpathak11/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shivangpathak11@gmail.com">
