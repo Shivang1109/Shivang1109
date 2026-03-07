@@ -24,7 +24,7 @@
   <a href="https://github.com/Shivang1109">
     <img src="https://img.shields.io/github/followers/Shivang1109?label=GitHub&style=social"/>
   </a>
-  <a href="https://linkedin.com/in/shivang-pathak-411b18315">
+  <a href="https://linkedin.com/in/shivangpathak11/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Shivang1109&label=Profile%20views&color=0e75b6&style=flat"/>
