@@ -63,7 +63,7 @@ An agentic backend system that simulates vulnerable personas to bait scammers in
 | 🚀 Deployed | Live API on Render with Docker + PostgreSQL |
 
 **Tech Stack:** `TypeScript` `Express.js` `PostgreSQL` `Docker` `NLP` `AI Agents`  
-🔗 [View Repo](https://github.com/Shivang1109/scam-intelligence-system) • 🌐 [Live API](https://scam-intelligence-system.onrender.com/health)
+🔗 [View Repo](https://github.com/Shivang1109/scam-intelligence-system) • 🌐 [Live API](https://scam-intelligence-system.onrender.com/)
 
 ---
 
