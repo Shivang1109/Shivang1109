@@ -5,11 +5,11 @@
 <h1 align="center">AI Systems & Backend Engineer</h1>
 
 <p align="center">
-  2nd Year B.Tech Student • Building Real-World AI Systems, Backend APIs & Impact-Driven Solutions
+  2nd Year B.Tech Student • Building AI Systems, Backend APIs & Real-World Impact Solutions
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=750&lines=AI+Systems+%26+Backend+Engineer;Building+AI+for+Real-World+Impact;FastAPI+%7C+Python+%7C+Machine+Learning;100%2B+DSA+Problems+in+1+Month;Learn+by+Shipping+Real+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=750&lines=AI+%26+Backend+Systems+Engineer;Building+AI+for+Real-World+Impact;FastAPI+%7C+Python+%7C+Machine+Learning;100%2B+DSA+Problems+in+1+Month;Learn+by+Shipping+Real+Systems"/>
 </p>
 
 <p align="center">
@@ -39,12 +39,22 @@ Hey, I'm **Shivang Pathak** — a **2nd year B.Tech student** and self-driven **
 I focus on building **real-world AI systems that create measurable impact**, especially in **agriculture, security, and accessibility domains**.
 
 - 🎓 Pursuing **B.Tech in CSE** at **BBDNIIT, Lucknow**
-- 🔥 Solved **100+ DSA problems in 1 month** (consistent daily grind)  
+- 🔥 Solved **100+ DSA problems in 1 month**  
 - 🌾 Building **AI systems for real-world impact (AgriTech, Security, Rural Tech)**  
 - 🧠 Deep diving into **System Design, Distributed Systems, and RAG-based AI systems**  
-- ⚡ I build fast → then optimize for scalability and production  
-- 📌 LeetCode: https://leetcode.com/shivangpathak11  
+- ⚡ I build fast → then optimize for scalability  
 - 📬 Reach me: **shivangpathak11@gmail.com**
+
+---
+
+## 🧠 DSA & Problem Solving
+
+- 🔥 Solved **100+ problems in 1 month**
+- 📌 LeetCode: https://leetcode.com/shivangpathak11  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/shivangpathak11?theme=dark&font=Fira%20Code"/>
+</p>
 
 ---
 
@@ -74,13 +84,7 @@ A real-world AI system designed to assist farmers by analyzing crop conditions a
 ### 🛡️ Agentic Scam Intelligence System
 > *AI honeypot that engages scammers and extracts structured fraud intelligence*
 
-| Feature | Details |
-|---|---|
-| 🤖 AI Agents | Simulates real victims |
-| 🔍 Extraction | Phone numbers, UPI IDs, scam patterns |
-| ⚠️ Risk Scoring | Fraud risk analysis |
-| 📊 Reports | Structured intelligence output |
-| 🚀 Deployment | Live backend API |
+AI-powered system that simulates victims and extracts actionable fraud intelligence such as phone numbers, UPI IDs, and scam patterns.
 
 **Tech Stack:** `TypeScript` `Express.js` `PostgreSQL` `Docker` `NLP`  
 
@@ -89,7 +93,7 @@ A real-world AI system designed to assist farmers by analyzing crop conditions a
 ---
 
 ### 🎙️ Voice AI Detector API
-> *ML API to classify AI-generated vs human voice*
+> *ML API that classifies whether a voice sample is AI-generated or human speech*
 
 **Tech Stack:** `Python` `FastAPI` `Scikit-learn` `Librosa`  
 
@@ -98,7 +102,7 @@ A real-world AI system designed to assist farmers by analyzing crop conditions a
 ---
 
 ### 🌾 GramSevak AI
-> *Low-bandwidth AI assistant for rural India*
+> *Low-bandwidth AI assistant helping rural India access government schemes*
 
 **Tech Stack:** `FastAPI` `Python` `AI APIs`  
 
@@ -107,7 +111,7 @@ A real-world AI system designed to assist farmers by analyzing crop conditions a
 ---
 
 ### 🧠 AYUSH-AI
-> *AI assistant for AYUSH healthcare guidance*
+> *AI assistant for AYUSH healthcare guidance & information*
 
 **Tech Stack:** `Python` `AI APIs`  
 
@@ -123,17 +127,39 @@ A real-world AI system designed to assist farmers by analyzing crop conditions a
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Backend & Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+**Tools & Design**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -142,6 +168,18 @@ A real-world AI system designed to assist farmers by analyzing crop conditions a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang1109&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang1109&theme=tokyonight&layout=compact&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## 🔥 Profile Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivang1109&theme=tokyonight"/>
 </p>
 
 ---
@@ -154,6 +192,14 @@ A real-world AI system designed to assist farmers by analyzing crop conditions a
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivang1109/Shivang1109/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -162,6 +208,9 @@ A real-world AI system designed to assist farmers by analyzing crop conditions a
   </a>
   <a href="mailto:shivangpathak11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/shivang._.pathak">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
 
