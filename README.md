@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;AI+Systems+%26+Backend+Development;275+%2B+LeetCode+Problems+Solved;Building+Real-World+AI+Applications;Learning+Spring+Boot+%26+System+Design;Learn+by+Building+%26+Shipping"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;AI+Systems+%26+Backend+Development;271%2B+LeetCode+Problems+Solved;Building+Real-World+AI+Applications;Learning+Spring+Boot+%26+System+Design;Learn+by+Building+%26+Shipping"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Java%20Backend-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Systems-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-275%2B%20Solved-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-271%2B%20Solved-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Spring%20Boot-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge"/>
 </p>
@@ -40,12 +40,11 @@ I enjoy building systems that go beyond demos — especially applications that s
 
 * 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **BBDNIIT, Lucknow**
 * 💻 Focused on **Java, Backend Engineering & API Development**
-* 🧩 Solved **275+ LeetCode problems**
-* 🏆 LeetCode Contest Rating: **1480**
-* 🧠 Currently learning **Spring Boot, System Design & Scalable Backend Architecture**
+* 🧩 Solved **271+ LeetCode problems**
 * 🤖 Building practical **AI-powered applications and backend systems**
+* 🧠 Currently learning **Spring Boot, System Design & Scalable Backend Architecture**
 * 🌍 Interested in **real-world technology and impact-driven engineering**
-* ⚡ Believe in **building first, then optimizing for scalability**
+* ⚡ I believe in **building first, then optimizing for scalability**
 
 ---
 
@@ -63,21 +62,21 @@ System Design & Scalability
 AI-powered Backend Systems
 ```
 
-I'm currently strengthening my **Java backend fundamentals** and moving deeper into **Spring Boot and system design**, while continuing to build AI-powered applications.
+Currently strengthening my **Java backend fundamentals** while moving deeper into **Spring Boot, system design, databases, and scalable backend architecture**.
 
 ---
 
 ## 🧩 DSA & Problem Solving
 
 <p align="center">
-  <b>275+ Problems Solved • 1480 Contest Rating • 56-Day Maximum Streak</b>
+  <b>271+ LeetCode Problems Solved</b>
 </p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/shivangpathak11?theme=dark&font=Fira%20Code"/>
 </p>
 
-**I'm consistently improving my problem-solving skills through Data Structures & Algorithms, competitive programming, and regular LeetCode practice.**
+I'm consistently improving my problem-solving skills through **Data Structures & Algorithms, competitive programming, and regular LeetCode practice**.
 
 🔗 **LeetCode:** https://leetcode.com/shivangpathak11
 
@@ -110,7 +109,7 @@ Krishi Rakshak combines AI, image analysis, external data sources, and backend A
 
 > **AI-powered honeypot designed to engage scammers and extract structured fraud intelligence.**
 
-The system simulates a victim interaction, engages with scam attempts, and extracts useful intelligence such as phone numbers, UPI IDs, and recurring scam patterns.
+The system simulates victim interactions, engages with scam attempts, and extracts useful intelligence such as phone numbers, UPI IDs, and recurring scam patterns.
 
 ### Key Features
 
@@ -167,17 +166,16 @@ An AI-powered application focused on making information easier to understand thr
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 ### Backend & Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
@@ -212,11 +210,6 @@ An AI-powered application focused on making information easier to understand thr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivang1109&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivang1109&theme=tokyonight&layout=compact&hide_border=true" width="40%"/>
 </p>
 
 ---
@@ -243,9 +236,11 @@ An AI-powered application focused on making information easier to understand thr
   <a href="https://linkedin.com/in/shivangpathak11/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:shivangpathak11@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://instagram.com/shivang._.pathak">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
