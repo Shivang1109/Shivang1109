@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Java%20Backend-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Systems-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-271%2B%20Solved-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-275+%2B%20Solved-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Spring%20Boot-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge"/>
 </p>
@@ -77,12 +77,7 @@ I'm currently strengthening my **Java backend fundamentals** and moving deeper i
   <img src="https://leetcard.jacoblin.cool/shivangpathak11?theme=dark&font=Fira%20Code"/>
 </p>
 
-* 🟢 Easy: **215**
-* 🟡 Medium: **49**
-* 🔴 Hard: **7**
-* 🏆 Contest Rating: **1480**
-* 🔥 Maximum Streak: **56 days**
-* 📅 Active Days: **102**
+**I'm consistently improving my problem-solving skills through Data Structures & Algorithms, competitive programming, and regular LeetCode practice.**
 
 🔗 **LeetCode:** https://leetcode.com/shivangpathak11
 
