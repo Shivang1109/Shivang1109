@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;AI+Systems+%26+Backend+Development;271%2B+LeetCode+Problems+Solved;Building+Real-World+AI+Applications;Learning+Spring+Boot+%26+System+Design;Learn+by+Building+%26+Shipping"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;AI+Systems+%26+Backend+Development;275+%2B+LeetCode+Problems+Solved;Building+Real-World+AI+Applications;Learning+Spring+Boot+%26+System+Design;Learn+by+Building+%26+Shipping"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ I enjoy building systems that go beyond demos — especially applications that s
 
 * 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **BBDNIIT, Lucknow**
 * 💻 Focused on **Java, Backend Engineering & API Development**
-* 🧩 Solved **271+ LeetCode problems**
+* 🧩 Solved **275+ LeetCode problems**
 * 🏆 LeetCode Contest Rating: **1480**
 * 🧠 Currently learning **Spring Boot, System Design & Scalable Backend Architecture**
 * 🤖 Building practical **AI-powered applications and backend systems**
@@ -70,7 +70,7 @@ I'm currently strengthening my **Java backend fundamentals** and moving deeper i
 ## 🧩 DSA & Problem Solving
 
 <p align="center">
-  <b>271+ Problems Solved • 1480 Contest Rating • 56-Day Maximum Streak</b>
+  <b>275+ Problems Solved • 1480 Contest Rating • 56-Day Maximum Streak</b>
 </p>
 
 <p align="center">
