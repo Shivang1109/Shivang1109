@@ -210,13 +210,13 @@ An AI-powered application focused on making information easier to understand thr
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img
         src="https://github-readme-stats-eight-gold-10.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true&hide_border=true"
         width="100%"
       />
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <img
         src="https://github-readme-stats-eight-gold-10.vercel.app/api/top-langs/?username=Shivang1109&layout=compact&theme=tokyonight&hide_border=true"
         width="100%"
@@ -227,10 +227,13 @@ An AI-powered application focused on making information easier to understand thr
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivang1109&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph-eta-seven.vercel.app/graph?username=Shivang1109&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ---
