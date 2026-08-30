@@ -206,19 +206,24 @@ An AI-powered application focused on making information easier to understand thr
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-gold-10.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true&hide_border=true"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-stats-eight-gold-10.vercel.app/api/top-langs/?username=Shivang1109&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats-eight-gold-10.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true&hide_border=true"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats-eight-gold-10.vercel.app/api/top-langs/?username=Shivang1109&layout=compact&theme=tokyonight&hide_border=true"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
