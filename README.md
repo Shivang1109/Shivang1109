@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Java%20Backend-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Systems-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-271%2B%20Solved-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-275%2B%20Solved-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Spring%20Boot-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge"/>
 </p>
@@ -40,7 +40,7 @@ I enjoy building systems that go beyond demos — especially applications that s
 
 * 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **BBDNIIT, Lucknow**
 * 💻 Focused on **Java, Backend Engineering & API Development**
-* 🧩 Solved **271+ LeetCode problems**
+* 🧩 Solved **275+ LeetCode problems**
 * 🤖 Building practical **AI-powered applications and backend systems**
 * 🧠 Currently learning **Spring Boot, System Design & Scalable Backend Architecture**
 * 🌍 Interested in **real-world technology and impact-driven engineering**
@@ -69,7 +69,7 @@ Currently strengthening my **Java backend fundamentals** while moving deeper int
 ## 🧩 DSA & Problem Solving
 
 <p align="center">
-  <b>271+ LeetCode Problems Solved</b>
+  <b>275+ LeetCode Problems Solved</b>
 </p>
 
 <p align="center">
@@ -209,7 +209,15 @@ An AI-powered application focused on making information easier to understand thr
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
+  <img
+    src="https://github-readme-stats-eight-gold-10.vercel.app/api?username=Shivang1109&theme=tokyonight&show_icons=true&hide_border=true"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-stats-eight-gold-10.vercel.app/api/top-langs/?username=Shivang1109&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 ---
