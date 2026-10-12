@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;AI+Systems+%26+Backend+Development;271%2B+LeetCode+Problems+Solved;Building+Real-World+AI+Applications;Learning+Spring+Boot+%26+System+Design;Learn+by+Building+%26+Shipping"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Backend+Engineer;AI+Systems+%26+Backend+Development;300%2B+LeetCode+Problems+Solved;Building+Real-World+AI+Applications;Learning+Spring+Boot+%26+System+Design;Learn+by+Building+%26+Shipping"/>
 </p>
 
 <p align="center">
