@@ -101,8 +101,7 @@ MANAK AI leverages Retrieval-Augmented Generation (RAG) to provide contextual an
 
 **Tech Stack:** `React` `Vite` `Spring Boot` `FastAPI` `Python` `LangChain` `ChromaDB` `PostgreSQL` `Gemini`
 
-🔗 [GitHub Repository](https://github.com/Shivang1109/MANAK_ai)  
-🌐 [Live Demo](https://manak-ai.duckdns.org/login)  
+🔗 [GitHub Repository](https://github.com/Shivang1109/MANAK_ai)  • 🌐 [Live Demo](https://manak-ai.duckdns.org/login)  
 ▶️ [Watch Project Demo on YouTube](https://youtu.be/pqrP3nk6SCA)
 
 
