@@ -101,9 +101,9 @@ MANAK AI leverages Retrieval-Augmented Generation (RAG) to provide contextual an
 
 **Tech Stack:** `React` `Vite` `Spring Boot` `FastAPI` `Python` `LangChain` `ChromaDB` `PostgreSQL` `Gemini`
 
-🔗 [GitHub Repository](https://github.com/Shivang1109/MANAK_ai) • 🌐 [Live Demo](https://manak-ai.duckdns.org/login)
-
-**Team:** BISync | **SIH 2026 Problem Statement:** 26107
+🔗 [GitHub Repository](https://github.com/Shivang1109/MANAK_ai)  
+🌐 [Live Demo](https://manak-ai.duckdns.org/login)  
+▶️ [Watch Project Demo on YouTube](https://youtu.be/pqrP3nk6SCA)
 
 
 ## 🌾 Krishi Rakshak
@@ -157,30 +157,6 @@ A backend ML service that processes audio samples and predicts whether the voice
 **Tech Stack:** `Python` `FastAPI` `Scikit-learn` `Librosa`
 
 🔗 [View Repository](https://github.com/Shivang1109/voice-ai-detector) • 🌐 [Live API](https://voice-ai-detector-lh2e.onrender.com/docs)
-
----
-
-## 🌾 GramSevak AI
-
-> **Low-bandwidth AI assistant designed to help rural India discover and understand government schemes.**
-
-The project focuses on making useful government-scheme information more accessible through an AI-powered interface designed with low-connectivity environments in mind.
-
-**Tech Stack:** `Python` `FastAPI` `AI APIs`
-
-🔗 [View Repository](https://github.com/Shivang1109/GRAMSEVAK-AI_VERTEX) • 🌐 [Live Demo](https://gramsevak-ai.netlify.app/)
-
----
-
-## 🧠 AYUSH-AI
-
-> **AI assistant providing accessible information and guidance around AYUSH healthcare systems.**
-
-An AI-powered application focused on making information easier to understand through a conversational interface.
-
-**Tech Stack:** `Python` `AI APIs`
-
-🔗 [View Repository](https://github.com/Shivang1109/AYUSH-AI) • 🌐 [Live Demo](https://ayush-ai-assistant.netlify.app/)
 
 ---
 
