@@ -84,6 +84,28 @@ I'm consistently improving my problem-solving skills through **Data Structures &
 
 # 🚀 Featured Projects
 
+## 🧠 MANAK AI — AI-Powered BIS Standards Intelligence
+
+> **An AI-powered assistant that helps users discover, retrieve, and understand Indian Standards (BIS) documents through natural-language queries.**
+
+MANAK AI leverages Retrieval-Augmented Generation (RAG) to provide contextual answers grounded in relevant standards documents, making technical information more accessible and easier to navigate.
+
+### ✨ Key Features
+
+- 🔎 Semantic search across standards documents
+- 🤖 AI-powered question answering using RAG
+- 📚 Context-aware retrieval of relevant clauses
+- 🎯 Reranking to improve retrieval relevance
+- 🛡️ Source-grounded responses to help reduce hallucinations
+- 🌐 Web-based interface for interacting with standards information
+
+**Tech Stack:** `React` `Vite` `Spring Boot` `FastAPI` `Python` `LangChain` `ChromaDB` `PostgreSQL` `Gemini`
+
+🔗 [GitHub Repository](https://github.com/Shivang1109/MANAK_ai) • 🌐 [Live Demo](https://manak-ai.duckdns.org/login)
+
+**Team:** BISync | **SIH 2026 Problem Statement:** 26107
+
+
 ## 🌾 Krishi Rakshak
 
 > **AI-powered agriculture intelligence system designed to help farmers make smarter crop-related decisions.**
